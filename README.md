@@ -18,7 +18,7 @@ git clone https://github.com/irfaniskandar-23/Coding-Assignment.git <br>
 python manage.py migrate
 ```
 
-#### 4) Add template directory in project setting template secion
+#### 4) Add template directory in project setting template section
 ```
 'DIRS': [os.path.join(BASE_DIR, 'template')]
 ```
