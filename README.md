@@ -4,22 +4,34 @@
 
 ## Running the project locally
 #### 1) First clone the repo to local computer
-> git clone https://github.com/irfaniskandar-23/Coding-Assignment.git <br>
-
+```
+git clone https://github.com/irfaniskandar-23/Coding-Assignment.git <br>
+```
 
 #### 2) Install requirements
-> pip install -r requirements.txt
+```
+ pip install -r requirements.txt
+```
 
 #### 3) Create database
-> python manage.py migrate
+```
+python manage.py migrate
+```
+
+### 4) Add template directory in project setting template secion
+```
+'DIRS': [os.path.join(BASE_DIR, 'template')]
+```
 
 #### 4) Run development server
-> python manage.py runserver
-
+```
+python manage.py runserver
+```
 
 #### 3) Admin
-> username: admin <br>
- password: admin123
+```
+python manage.py createsuperuser
+```
 
 #### 4) urls
 > Django REST API Root : [http://127.0.0.1:8000/](http://127.0.0.1:8000/)<br>
