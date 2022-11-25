@@ -59,3 +59,22 @@ python manage.py runserver
   title="InventoryList (Frontend)"
   style="display: inline-block; margin: 0 auto; width: 100px height: 50px" >
 
+
+
+#####  <ins>Inventory List (Backend API)</ins>
+<img
+  src="/output/Inventory_List (Backend API).png"
+  alt="Alt text"
+  title="InventoryList (Frontend)"
+  style="display: inline-block; margin: 0 auto; width: 100px height: 50px" >
+
+
+
+
+
+#####  <ins>Inventory Detail (Backend API)</ins>
+<img
+  src="/output/Inventory_Detail (Backend API).png"
+  alt="Alt text"
+  title="InventoryList (Frontend)"
+  style="display: inline-block; margin: 0 auto; width: 100px height: 50px" >
