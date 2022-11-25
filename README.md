@@ -33,7 +33,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-#### 4) urls
+#### 7) urls
 > Django REST API Root : [http://127.0.0.1:8000/](http://127.0.0.1:8000/)<br>
 > Inventory List (frontend) : [http://127.0.0.1:8000/inventory/](  http://127.0.0.1:8000/inventory/)<br>
 > Inventory List (frontend) : [http://127.0.0.1:8000/inventory/1](http://127.0.0.1:8000/inventory/1)<br>
