@@ -41,8 +41,9 @@ python manage.py runserver
 > Inventory Detail (Backend/API)  : [http://127.0.0.1:8000/api/inventory/1](http://127.0.0.1:8000/api/inventory/1)<br>
 
 
-#### 8) Output
+#### 8) Output <br>
 
+##### Inventory List (Frontend)
 <img
   src="/output/Inventory_List (FrontendI).png"
   alt="Alt text"
