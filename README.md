@@ -36,15 +36,15 @@ python manage.py runserver
 #### 7) urls
 > Django REST API Root : [http://127.0.0.1:8000/](http://127.0.0.1:8000/)<br>
 > Inventory List (frontend) : [http://127.0.0.1:8000/inventory/](  http://127.0.0.1:8000/inventory/)<br>
-> Inventory List (frontend) : [http://127.0.0.1:8000/inventory/1](http://127.0.0.1:8000/inventory/1)<br>
+> Inventory Detail (frontend) : [http://127.0.0.1:8000/inventory/1](http://127.0.0.1:8000/inventory/1)<br>
 > Inventory List (Backend/API)  : [http://127.0.0.1:8000/api/inventory/](http://127.0.0.1:8000/api/inventory/)<br>
-> Inventory List (Backend/API)  : [http://127.0.0.1:8000/api/inventory/1](http://127.0.0.1:8000/api/inventory/1)<br>
+> Inventory Detail (Backend/API)  : [http://127.0.0.1:8000/api/inventory/1](http://127.0.0.1:8000/api/inventory/1)<br>
 
 
-### 8) Output
+#### 8) Output
 
 <img
   src="/output/1.png"
   alt="Alt text"
-  title="Optional title"
+  title=Inventory List (Frontend)"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
