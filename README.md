@@ -44,7 +44,7 @@ python manage.py runserver
 #### 8) Output
 
 <img
-  src="/output/1.png"
+  src="/output/Inventory_List (FrontendI).png"
   alt="Alt text"
   title="InventoryList (Frontend)"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
