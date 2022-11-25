@@ -42,9 +42,10 @@ python manage.py runserver
 
 
 #### 8) Output
-
+```
 <img
   src="/output/Inventory_List (FrontendI).png"
   alt="Alt text"
   title="InventoryList (Frontend)"
   style="display: inline-block; margin: 0 auto; width: 200px">
+ ```
