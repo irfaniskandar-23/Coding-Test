@@ -43,16 +43,16 @@ python manage.py runserver
 
 #### 8) Output <br>
 
-#####  1) Inventory List (Frontend)
+#####  <ins>Inventory List (Frontend)</ins>
 <img
   src="/output/Inventory_List (FrontendI).png"
   alt="Alt text"
   title="InventoryList (Frontend)"
-  style="display: inline-block; margin: 0 auto; width: 100px height: 50px" >
+  style="display: inline-block; margin: 0 auto; width: 100px height: 50px" > <br><br>
   
   
   
-#####  2) Inventory Detail (Frontend)
+#####  <ins>Inventory Detail (Frontend)</ins>
 <img
   src="/output/Inventory_Detail (Frontend).png"
   alt="Alt text"
