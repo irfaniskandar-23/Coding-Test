@@ -5,7 +5,7 @@
 ## Running the project locally
 #### 1) First clone the repo to local computer
 ```
-git clone https://github.com/irfaniskandar-23/Coding-Assignment.git <br>
+git clone https://github.com/irfaniskandar-23/Coding-Assignment.git
 ```
 
 #### 2) Install requirements
