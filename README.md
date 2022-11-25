@@ -18,19 +18,19 @@ git clone https://github.com/irfaniskandar-23/Coding-Assignment.git <br>
 python manage.py migrate
 ```
 
-### 4) Add template directory in project setting template secion
+#### 4) Add template directory in project setting template secion
 ```
 'DIRS': [os.path.join(BASE_DIR, 'template')]
 ```
 
-#### 4) Run development server
-```
-python manage.py runserver
-```
-
-#### 3) Admin
+#### 5) Admin
 ```
 python manage.py createsuperuser
+```
+
+#### 6) Run development server
+```
+python manage.py runserver
 ```
 
 #### 4) urls
